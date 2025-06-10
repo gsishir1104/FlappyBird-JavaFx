@@ -29,7 +29,3 @@ FlappyBird-JavaFX/
 └── README.md
 ```
 
-## 🔗 Demo
-Coming soon / (Optional GIF or video)
-
----
